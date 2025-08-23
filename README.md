@@ -13,7 +13,7 @@ The work focuses on the **analysis of Argentina's performance in the FIFA World 
 
 ---
 
-## 🛠 Tools used
+##  Tools used
 
 - **Google Colab (Python)** → data cleaning and exploratory analysis.  
 - **Power BI** → interactive dashboard design.  
